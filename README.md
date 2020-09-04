@@ -1,4 +1,4 @@
-# HP-8570w-Hackintosh-10.14-Mojave-EFI-Clover
+### HP 8570W Hackintosh
 * HP 8570w:
   - CPU: i7 3820QM
   - VGA: K2000M
