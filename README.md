@@ -1,0 +1,1 @@
+# HP-8570w-Hackintosh-10.14-Mojave---EFI-Clover
