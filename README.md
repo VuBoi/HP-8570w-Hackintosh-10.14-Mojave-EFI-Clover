@@ -22,3 +22,6 @@
 * Notes:
   - Open a terminal and run: sudo kextcache -i /
   - Fix keyboard shortcuts: https://karabiner-elements.pqrs.org/
+* Demo:
+
+![MacOsDemo](https://i.imgur.com/dT6hBR6.png)
