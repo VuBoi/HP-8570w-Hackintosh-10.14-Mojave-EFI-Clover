@@ -5,20 +5,20 @@
   - Ram: 16GB DDR3
   - Disk: 1TB HDD 7200rpm
   - MacOs: 10.14.6
- * Make USB BOOT (Windows + MacOS):
+* Make USB BOOT (Windows + MacOS):
   - Tutorial Here: https://lzhoang2601.github.io/CreateUSBmacOSInstall/
- * KextUpdater:
+* KextUpdater:
   - Link: https://bitbucket.org/profdrluigi/kextupdater/downloads/
- * Working: Everything is almost fine except: 
+* Working: Everything is almost fine except: 
   - Bluetooth (Kext ok but not connect device)
   - iMessage/FaceTime ( I don't use)
   - Brightness Control
   - Wifi ( You can use USB Wifi: I use TL-WN725N) ( P/s: Change IconWifi Here: https://github.com/yunyu/OSXRealtekWifiIcons)
   - ...
- * Get smooth scrolling:
+* Get smooth scrolling:
   - Download and install MOS: https://mos.caldis.me/
- * Clover Configurator:
+* Clover Configurator:
   - Link: https://mackie100projects.altervista.org/download-clover-configurator/
- * Notes:
+* Notes:
   - Open a terminal and run: sudo kextcache -i /
   - Fix keyboard shortcuts: https://karabiner-elements.pqrs.org/
