@@ -1,4 +1,4 @@
-# HP-8570w-Hackintosh-10.14-Mojave---EFI-Clover
+# HP-8570w-Hackintosh-10.14-Mojave-EFI-Clover
 * HP 8570w:
   - CPU: i7 3820QM
   - VGA: K2000M
@@ -22,6 +22,7 @@
 * Notes:
   - Open a terminal and run: sudo kextcache -i /
   - Fix keyboard shortcuts: https://karabiner-elements.pqrs.org/
+  - Use OpenCore: https://github.com/SkyrilHD/HP-8570W-Hackintosh
 * Demo:
 
 ![MacOsDemo](https://i.imgur.com/dT6hBR6.png)
